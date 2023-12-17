@@ -3,6 +3,11 @@
   size: 4.3
   last_checked: 2022-03-20
 
+  - domain: marcoalvaro.com
+  url: https://marcoalvaro.com/
+  size: 353
+  last_checked: 2023-12-17 
+
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 6.2
